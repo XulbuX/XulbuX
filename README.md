@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XulbuX-dev
+- 👋 Hi, I’m @XulbuX
 - 👀 I’m interested in modding with code.
 - 🌱 I’m currently learning Python, HTML and css.
 
