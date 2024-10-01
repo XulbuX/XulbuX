@@ -61,7 +61,11 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+<p style="display : flex">
+  You are the 
+  ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+  th viewer of my profile ;D
+</p>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
