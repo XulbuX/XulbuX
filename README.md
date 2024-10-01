@@ -64,6 +64,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
   <br>
+  <br>
+  <br>
   ... people visited my profile ;D
 
   </kbd>
