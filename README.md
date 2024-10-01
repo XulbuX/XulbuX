@@ -63,6 +63,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
   <p>
     
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+  <br>
   people have viewed my profile ;D
 
   </p>
