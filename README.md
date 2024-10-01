@@ -2,10 +2,6 @@
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
   <h1>
     $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}$
-    <div>
-      <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-      <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=0076D6" alt="Star Badge"/>
-    </div>
   </h1>
   <p><br></p>
   
