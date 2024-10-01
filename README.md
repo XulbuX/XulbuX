@@ -1,4 +1,4 @@
-\usepackage{sans}
+\usepackage{sans-serif}
 
 <div align="center">
 
