@@ -22,7 +22,10 @@
 - 🌐 Exploring the intersection of gaming and programming
 
 ## 🔍 Current Focus
+
 - 🐍 Mastering the art of Python
+- ... Trying to learn more about C# and C++
+- ... Getting to know Java and it's features
 - 🖥️ Crafting beautiful web experiences with HTML, CSS and JS (+ Inertia, VUE, PHP, etc.)
 - 🛠️ Diving deep into the world of designing for the perfect user experience
 
