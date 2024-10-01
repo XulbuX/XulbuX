@@ -63,10 +63,10 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
   <kbd>
     
   ![Badge](https://img.shields.io/badge/People_that_visited_my_profile:-000000?style=flat&logoColor=white&width=200&height=100)
-  
-  </kbd>
   <br>
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
+
+  </kbd>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
