@@ -13,7 +13,7 @@
   ```
   
   <h1>
-    $${\color{#7075FF}\texttt{typewriter text}\Huge{\textsf{
+    $${\color{#7075FF}\texttt{typewriter}\Huge{\textsf{
       👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.
     }}}$$
   </h1>
