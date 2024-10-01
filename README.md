@@ -1,4 +1,4 @@
-\usepackage{sans-serif}
+\usepackage{times}
 
 <div align="center">
 
