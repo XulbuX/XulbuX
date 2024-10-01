@@ -1,11 +1,5 @@
 # 👋 Welcome to XulbuX's Coding Universe!
 
-<div align="center">
-
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-</div>
-
 ## 🚀 About Me
 
 - 🎮 Passionate coder and modding enthusiast
