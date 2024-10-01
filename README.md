@@ -3,6 +3,19 @@
   <h1>
     $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}$
   </h1>
+  <div>
+    <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://discord.gg/pochita" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  </div>
   <p><br></p>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FF8080&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Front-End+Development;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Back-End+Development)](https://git.io/typing-svg)
