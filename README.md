@@ -1,7 +1,6 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
   <h1>
-    <br>
     $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}$
   </h1>
   <p><br></p>
@@ -58,5 +57,14 @@ ___
 <br><br>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
+
+  ```python
+  ____  ___        __   ___            ____  ___
+  \   \/  / __ __ |  |  \_ |__   __ __ \   \/  /
+   \     / |  |  \|  |   | __ \ |  |  \ \     / 
+   /     \ |  |  /|  |__ | \_\ \|  |  / /     \ 
+  /___/\  \|____/ |____/ |___  /|____/ /___/\  \
+        \_/                  \/              \_/
+  ```
 
 </div>
