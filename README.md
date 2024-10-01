@@ -61,13 +61,15 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
-<p style="display : flex">
-  You are the 
+<div style="display : flex">
+  <div>You are the </div>
+  <div>
   
-  ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
-
-  th viewer of my profile ;D
-</p>
+![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+  
+  </div>
+  <div>'th viewer of my profile ;D</div>
+</div>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
