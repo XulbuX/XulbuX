@@ -60,13 +60,15 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 ---
 
 <div align="center">
-  <p>
+  <div>
     
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
   <br>
-  $\color{#00FF00}\textsf{people have viewed my profile ;D}$
+  <kbd>
+    $\color{#00FF00}\textsf{people have viewed my profile ;D}$
+  </kbd>
 
-  </p>
+  </div>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
