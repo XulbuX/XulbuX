@@ -46,7 +46,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </div>
-___
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <kbd>
