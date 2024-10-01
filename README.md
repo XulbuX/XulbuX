@@ -19,6 +19,7 @@
   </h1>
   
   <p/>
+  <p/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8080&center=true&vCenter=true&width=700&lines=Passionate+Coder;UX+Design+Aficionado" style="width: 100%; height: auto;" />
