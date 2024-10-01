@@ -63,7 +63,9 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <p style="display : flex">
   You are the 
+  
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+
   th viewer of my profile ;D
 </p>
 
