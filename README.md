@@ -1,4 +1,6 @@
 <div align="center">
+
+  <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="100%" height="auto"/>
   
   ```
    __   __     _  _     _      __   __
