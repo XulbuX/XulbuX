@@ -62,7 +62,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <div align="center">
 
 <div style="display : flex">
-  You are the <br>
+  You are the 
   
 ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
   'th viewer of my profile ;D
