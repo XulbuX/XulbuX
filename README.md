@@ -61,7 +61,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
   
-  ![Green Badge](https://img.shields.io/badge/People_that_visited_my_profile:-00FF00?style=flat&logoColor=white)
+  ![Green Badge](https://img.shields.io/badge/People_that_visited_my_profile:-000000?style=flat&logoColor=white)
+  <br>
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
