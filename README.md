@@ -62,7 +62,6 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <div align="center">
   <kbd>
   <br>
-  <br>
   You are the
   <br>
   <br>
