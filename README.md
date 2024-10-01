@@ -14,13 +14,6 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7F7&center=true&vCenter=true&width=435&lines=Passionate+Coder;Modding+Enthusiast;UX+Design+Aficionado)](https://git.io/typing-svg)
 
-  <h3>Uncover the Hidden Message!</h3>
-  <a href="https://github.com/XulbuX-dev">
-    <img src="https://github.com/XulbuX-dev/XulbuX-dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </a>
-  
-  <sub>Hint: The snake reveals a secret message as it "eats" my contribution graph. Can you decode it?</sub>
-
 </div>
 
 ## 🚀 About Me
