@@ -14,15 +14,6 @@
   
   <h1>👋 Hi, I'm XulbuX! Nice to see you here.</h1>
   
-  <p>
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-    ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-    ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  </p>
-  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7F7&center=true&vCenter=true&width=435&lines=Passionate+Coder;Modding+Enthusiast;UX+Design+Aficionado)](https://git.io/typing-svg)
 
 </div>
