@@ -1,6 +1,6 @@
 <div align="center">
 
-  <div style="border-radius: 25px; overflow: hidden;">
+  <div style="border-radius: 100%; overflow: hidden;">
     <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="100%" height="auto"/>
   </div>
   
