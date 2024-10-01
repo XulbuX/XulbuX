@@ -62,9 +62,9 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <div align="center">
   <p>
     
-  ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
   <br>
-  people have viewed my profile ;D
+  $\color{#7075FF}\textsf{people have viewed my profile ;D}$
 
   </p>
 
