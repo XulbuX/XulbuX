@@ -14,7 +14,7 @@
   ```
   
   <h1>
-    $\color{#7075FF}\Huge{\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}}$
+    $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}$
   </h1>
   
   <p><br></p>
