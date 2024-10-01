@@ -60,12 +60,12 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 ---
 
 <div align="center">
-  <div>
+  <p>
     
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
   people have viewed my profile ;D
 
-  </div>
+  </p>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
