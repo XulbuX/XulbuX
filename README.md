@@ -1,5 +1,3 @@
-\usepackage{times}
-
 <div align="center">
 
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
