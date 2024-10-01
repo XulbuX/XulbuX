@@ -67,7 +67,6 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
   ...people have visited my profile
   <br><br>
   Now, including you 😊
-  
   </kbd>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
