@@ -33,7 +33,7 @@
 
 ## 🤝 Let's Connect!
 Feel free to explore my repositories and don't hesitate to reach out for questions or just a friendly chat about coding and designing!
-<div>
+<div align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
