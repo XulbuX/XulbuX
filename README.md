@@ -51,7 +51,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/XulbuX-dev?label=Follow&style=social)](https://github.com/XulbuX-dev)
-[![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+<!-- [![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle) -->
 
 </div>
 
