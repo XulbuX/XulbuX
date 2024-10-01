@@ -63,7 +63,7 @@ ___
 <kbd>
 
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
-  <br><br>
+  <br><br><br>
   ...people have visited my profile
   <br><br>
   Now, including you 😊
