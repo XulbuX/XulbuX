@@ -62,11 +62,14 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <div align="center">
   <kbd>
   You are the
-
+  <br>
+  <br>
+    
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
+  
   <br>
   <br>
-  ...th visitor my profile 😊
+  ...th visitor of my profile 😊
   
   </kbd>
 
