@@ -36,8 +36,9 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/XulbuX-dev?label=Follow&style=social)](https://github.com/XulbuX-dev)
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/followers/xulbux-dev" alt="Followers Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/xulbux-dev" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/xulbux-dev" alt="Forks Badge"/></a>
 
 </div>
 
