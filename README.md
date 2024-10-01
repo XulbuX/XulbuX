@@ -64,7 +64,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
     
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
   <br>
-  $\color{#7075FF}[10pt]\textsf{people have viewed my profile ;D}$
+  $\color{#00FF00}\textsf{people have viewed my profile ;D}$
 
   </p>
 
