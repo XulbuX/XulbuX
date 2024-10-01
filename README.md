@@ -1,6 +1,8 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
-  $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}$
+  <p>
+    $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}$
+  </p>
   <div>
     <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
