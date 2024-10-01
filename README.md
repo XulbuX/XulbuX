@@ -18,7 +18,7 @@
     $\color{#7075FF}\Huge{\textsf{👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.}}$
   </h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7F7&center=true&vCenter=true&width=435&lines=Passionate+Coder;UX+Design+Aficionado)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF80AA&center=true&vCenter=true&width=435&lines=Passionate+Coder;UX+Design+Aficionado)](https://git.io/typing-svg)
 
 </div>
 
