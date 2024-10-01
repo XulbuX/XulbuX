@@ -61,7 +61,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
   
-  ![Green Badge](https://img.shields.io/badge/People_that_visited_my_profile:-000000?style=flat&logoColor=white)
+  ![Badge](https://img.shields.io/badge/People_that_visited_my_profile:-000000?style=flat&logoColor=white&width=200)
   <br>
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
 
