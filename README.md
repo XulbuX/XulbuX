@@ -19,9 +19,7 @@
   
   <p><br></p>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8080&center=true&vCenter=true&width=700&lines=Passionate+Coder;UX+Design+Aficionado" style="width: 100%; height: auto;" />
-  </a>
+  [![Typing Animation](https://readme-typing-svg.demolab.com/demo/?size=40&color=FF8080&center=true&vCenter=true&random=true&width=600&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Front-End+Development;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Back-End+Development)]
 
 </div>
 
