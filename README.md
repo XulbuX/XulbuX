@@ -59,7 +59,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 ---
 
-<div align="center" display="flex" justify-content="center">
+<div align="center">
 
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
   people have viewed my profile ;D
