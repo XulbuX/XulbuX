@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="100%" height="auto"/>
+  <div style="border-radius: 25px; overflow: hidden;">
+    <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="100%" height="auto"/>
+  </div>
   
   ```
    __   __     _  _     _      __   __
