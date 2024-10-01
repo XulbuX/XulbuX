@@ -17,6 +17,8 @@
       👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.
     }}}$$
   </h1>
+
+  <kbd>like</kbd>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7F7&center=true&vCenter=true&width=435&lines=Passionate+Coder;Modding+Enthusiast;UX+Design+Aficionado)](https://git.io/typing-svg)
 
