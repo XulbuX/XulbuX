@@ -13,6 +13,9 @@
   ```
   
   <h1>👋 Hi, I'm XulbuX! Nice to see you here.</h1>
+
+  ![Red Badge](https://img.shields.io/badge/Passionate-FF0000?style=flat&logoColor=white)
+  ![Green Badge](https://img.shields.io/badge/Enthusiast-00FF00?style=flat&logoColor=white)
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7F7&center=true&vCenter=true&width=435&lines=Passionate+Coder;Modding+Enthusiast;UX+Design+Aficionado)](https://git.io/typing-svg)
 
