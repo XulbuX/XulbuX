@@ -44,8 +44,6 @@
 
 </div>
 
-![XulbuX's GitHub Activity Graph](https://ghchart.rshandha.me/XulbuX-dev)
-
 ## 🤝 Let's Connect!
 Feel free to explore my repositories and don't hesitate to reach out for questions or just a friendly chat about coding and designing!
 
