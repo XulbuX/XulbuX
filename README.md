@@ -13,8 +13,7 @@
   ```
   
   <h1>
-    \usepackage{times}
-    $${\color{#7075FF}\Huge{\textsf{
+    $${\usepackage{times}\color{#7075FF}\Huge{\textsf{
       👋\ Hi, I'm\ XulbX!\ Nice\ to\ see\ you\ here.
     }}}$$
   </h1>
