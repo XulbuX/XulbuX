@@ -60,7 +60,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 ---
 
 <div align="center">
-  <div items="center">
+  <div style="display : flex; justify-content : center; align-items : center">
     
   ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
   <kbd>$\color{#00FF00}\Large\textsf{people have viewed my profile ;D}$</kbd>
