@@ -25,9 +25,9 @@
 
 <div align="center">
 
-| Python | HTML | CSS | JavaScript | Vue.js | PHP | Inertia | C# | C++ | Java |
-|:------:|:----:|:---:|:----------:|:------:|:---:|:-------:|:--:|:---:|:----:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/inertiajs/inertia/master/.github/LOGO.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> |
+| Python | HTML | CSS | JavaScript | Vue.js | PHP | C# | C++ | Java |
+|:------:|:----:|:---:|:----------:|:------:|:---:|:--:|:---:|:----:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> |
 
 </div>
 
@@ -51,13 +51,13 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
-  ```python
-  ____  ___        __   ___            ____  ___
-  \   \/  / __ __ |  |  \_ |__   __ __ \   \/  /
-   \     / |  |  \|  |   | __ \ |  |  \ \     / 
-   /     \ |  |  /|  |__ | \_\ \|  |  / /     \ 
-  /___/\  \|____/ |____/ |___  /|____/ /___/\  \
-        \_/                  \/              \_/
-  ```
+```python
+____  ___        __   ___            ____  ___
+\   \/  / __ __ |  |  \_ |__   __ __ \   \/  /
+  \     / |  |  \|  |   | __ \ |  |  \ \     / 
+  /     \ |  |  /|  |__ | \_\ \|  |  / /     \ 
+/___/\  \|____/ |____/ |___  /|____/ /___/\  \
+      \_/                  \/              \_/
+```
 
 </div>
