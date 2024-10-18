@@ -1,20 +1,11 @@
 <div align="center">
-
-  <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="40" height="40"/>
+  <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
+  <h1>
+    $\color{#7075FF}\Huge\textsf{👋\ Hi, I'm\ XulbuX!\ Nice\ to\ see\ you\ here.}$
+  </h1>
+  <p><br></p>
   
-  ```
-   __   __     _  _     _      __   __
-   \ \ / /    | || |   | |     \ \ / /
-    \ V /_   _| || |__ | |_   __\ V / 
-     > <| | | | || '_ \| | | | | > <  
-    / . \ |_| | || |_| | | |_| |/ . \ 
-   /_/ \_\__,_|_||_.__/|_|\__,_/_/ \_\
-                                      
-  ```
-  
-  <h1>👋 Hi, I'm XulbuX! Nice to see you here.</h1>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7F7&center=true&vCenter=true&width=435&lines=Passionate+Coder;Modding+Enthusiast;UX+Design+Aficionado)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FF8080&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Front-End+Development;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Back-End+Development)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,19 +34,30 @@
 ## 🤝 Let's Connect!
 Feel free to explore my repositories and don't hesitate to reach out for questions or just a friendly chat about coding and designing!
 
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/XulbuX-dev?label=Follow&style=social)](https://github.com/XulbuX-dev)
-<!-- [![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle) -->
-
-</div>
-
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
+<kbd>
 
-![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/XulbuX-dev/count.svg?color=FF8080)
+  <br><br><br>
+  ...people have visited my profile
+  <br><br>
+  Now, including you 😊
+
+</kbd>
+
+<br><br>
 
 ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
+
+  ```python
+  ____  ___        __   ___            ____  ___
+  \   \/  / __ __ |  |  \_ |__   __ __ \   \/  /
+   \     / |  |  \|  |   | __ \ |  |  \ \     / 
+   /     \ |  |  /|  |__ | \_\ \|  |  / /     \ 
+  /___/\  \|____/ |____/ |___  /|____/ /___/\  \
+        \_/                  \/              \_/
+  ```
 
 </div>
