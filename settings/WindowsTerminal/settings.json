@@ -1,0 +1,121 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": [
+        //! KEEP YOURS !//
+    ],
+    "alwaysShowNotificationIcon": true,
+    "centerOnLaunch": true,
+    "confirmCloseAllTabs": false,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "", //! KEEP YOURS !//
+    "disableAnimations": false,
+    "firstWindowPreference": "defaultProfile",
+    "focusFollowMouse": true,
+    "initialCols": 155,
+    "initialRows": 40,
+    "launchMode": "maximized",
+    "newTabMenu": [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": {
+        "defaults": {
+            "antialiasingMode": "cleartype",
+            "closeOnExit": "graceful",
+            "colorScheme": "XulbuX",
+            "elevate": true,
+            "font": {
+                "face": "JetBrainsMono Nerd Font",
+                "size": 12
+            },
+            "historySize": 1000000,
+            "intenseTextStyle": "all",
+            "opacity": 50,
+            "padding": "12",
+            "useAcrylic": true
+        },
+        "list": [
+            //! KEEP YOURS !//
+        ]
+    },
+    "schemes": [
+        {
+            "background": "#190032",
+            "black": "#340069",
+            "blue": "#00FF80",
+            "brightBlack": "#4B0096",
+            "brightBlue": "#7AFFBD",
+            "brightCyan": "#80FFDF",
+            "brightGreen": "#73FF73",
+            "brightPurple": "#80FFD4",
+            "brightRed": "#B9FF73",
+            "brightWhite": "#8CFFEC",
+            "brightYellow": "#73FFA2",
+            "cursorColor": "#B857FF",
+            "cyan": "#00FFBF",
+            "foreground": "#00FF00",
+            "green": "#00FF00",
+            "name": "Hacking",
+            "purple": "#00FFAA",
+            "red": "#80FF00",
+            "selectionBackground": "#9F00FF",
+            "white": "#00FFD5",
+            "yellow": "#00FF55"
+        },
+        {
+            "background": "#000000",
+            "black": "#F03070",
+            "blue": "#326EFF",
+            "brightBlack": "#FF4D88",
+            "brightBlue": "#6694FF",
+            "brightCyan": "#73D5FF",
+            "brightGreen": "#A459FF",
+            "brightPurple": "#66B8FF",
+            "brightRed": "#C966FF",
+            "brightWhite": "#99FAFF",
+            "brightYellow": "#6B66FF",
+            "cursorColor": "#2BFFAB",
+            "cyan": "#39C2FF",
+            "foreground": "#2BFFAB",
+            "green": "#8015FF",
+            "name": "NEON",
+            "purple": "#2899FF",
+            "red": "#B327FF",
+            "selectionBackground": "#28FFE0",
+            "white": "#38F5FF",
+            "yellow": "#4942FF"
+        },
+        {
+            "background": "#00071A",
+            "black": "#1A1A1A",
+            "blue": "#6065FF",
+            "brightBlack": "#404040",
+            "brightBlue": "#8085FF",
+            "brightCyan": "#80FFF4",
+            "brightGreen": "#2BFF9A",
+            "brightPurple": "#FF55C8",
+            "brightRed": "#FF6670",
+            "brightWhite": "#F1F2FF",
+            "brightYellow": "#FF8C5A",
+            "cursorColor": "#708FF0",
+            "cyan": "#14CCBD",
+            "foreground": "#95B5FF",
+            "green": "#2EE37F",
+            "name": "XulbuX",
+            "purple": "#E53CE8",
+            "red": "#EB3E52",
+            "selectionBackground": "#808088",
+            "white": "#E0E0ED",
+            "yellow": "#FF8060"
+        }
+    ],
+    "tabSwitcherMode": "mru",
+    "tabWidthMode": "equal",
+    "theme": "system",
+    "themes": [],
+    "useAcrylicInTabRow": true,
+    "wordDelimiters": " /\\()\"'.,:;<>~!@#$%^&*|+=[]{}~?\u2502"
+}
