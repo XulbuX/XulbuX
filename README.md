@@ -1,13 +1,10 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
   <h1 style="display:flex"> <!-- each new can wrap -->
-    <div>
-      $\color{#7075FF}\Huge\textsf{👋}$
-    </div><div>
-      $\color{#7075FF}\Huge\textsf{Hi,\ I'm\ XulbuX!}$
-      $\color{#7075FF}\Huge\textsf{Nice\ to\ see}$
-      $\color{#7075FF}\Huge\textsf{you\ here.}$
-    </div>
+    $\color{#7075FF}\Huge\textsf{👋}$
+    $\color{#7075FF}\Huge\textsf{Hi,\ I'm\ XulbuX!}$
+    $\color{#7075FF}\Huge\textsf{Nice\ to\ see}$
+    $\color{#7075FF}\Huge\textsf{you\ here.}$
   </h1>
   <p><br></p>
   
