@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
-  <h1> <!-- each new can wrap -->
+  <h1 style="display:flex"> <!-- each new can wrap -->
     <div>
       $\color{#7075FF}\Huge\textsf{👋}$
     </div><div>
