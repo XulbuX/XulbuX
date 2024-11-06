@@ -4,7 +4,7 @@
     $\color{#7075FF}\Huge\textsf{👋\ Hi,}$
     $\color{#7075FF}\Huge\textsf{I'm\ XulbuX!}$
     $\color{#7075FF}\Huge\textsf{Nice\ to}$
-    $\color{#7075FF}\Huge\textsfsee\ you}$
+    $\color{#7075FF}\Huge\textsf{see\ you}$
     $\color{#7075FF}\Huge\textsf{here.}$
   </h1>
   <p><br></p>
