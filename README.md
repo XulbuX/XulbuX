@@ -59,7 +59,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
   _  __ __  __/ / / /_  __  ___  __
  | |/ // / / / / / __ \/ / / | |/ /
  > , </ /_/ / /_/ /_/ / /_/ /> , < 
-/_/|_|\____/\__/\____/\____//_/|_| 
+/_/|_|\____/\__/\____/\____//_/|_|
+
 ```
 
 </div>
