@@ -1,10 +1,14 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" style="width: 100%; height: auto; display: block;" draggable="false"/>
-  <h1>
-    $\color{#7075FF}\Huge\textsf{👋\ Hi,}$
-    $\color{#7075FF}\Huge\textsf{I'm\ XulbuX!}$
-    $\color{#7075FF}\Huge\textsf{Nice\ to}$
-    $\color{#7075FF}\Huge\textsf{see\ you}$
+  <h1> <!-- each word on new line for word wrapping -->
+    $\color{#7075FF}\Huge\textsf{👋}$
+    $\color{#7075FF}\Huge\textsf{Hi,}$
+    $\color{#7075FF}\Huge\textsf{I'm}$
+    $\color{#7075FF}\Huge\textsf{XulbuX!}$
+    $\color{#7075FF}\Huge\textsf{Nice}$
+    $\color{#7075FF}\Huge\textsf{to}$
+    $\color{#7075FF}\Huge\textsf{see}$
+    $\color{#7075FF}\Huge\textsf{you}$
     $\color{#7075FF}\Huge\textsf{here.}$
   </h1>
   <p><br></p>
