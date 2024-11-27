@@ -101,7 +101,9 @@
         "cutoff",
         "darkgray",
         "datasheet",
+        "Decryptor",
         "deduped",
+        "Encryptor",
         "endcomponent",
         "endisset",
         "endphp",
@@ -123,6 +125,7 @@
         "grayscale",
         "helitrope",
         "helpcenter",
+        "herosection",
         "iconify",
         "impressum",
         "inertiajs",
@@ -154,6 +157,7 @@
         "nojs",
         "olevents",
         "oneline",
+        "onsave",
         "padx",
         "pady",
         "parseresults",
@@ -178,6 +182,7 @@
         "rtrim",
         "ruleset",
         "runas",
+        "seps",
         "setrecursionlimit",
         "SFML",
         "signoff",
@@ -230,41 +235,20 @@
         "xscrollcommand",
         "xulbux",
         "zbuffer",
-        "Ziggy",
-        "onsave"
+        "Ziggy"
     ],
     "cSpell.language": "en-GB",
     "editor.tabSize": 4,
-    "[java]": {
+    "[java][json][cpp][ahk][ahk2]": {
         "editor.formatOnSave": false,
         "editor.formatOnPaste": false,
         "editor.formatOnType": false
     },
-    "[json]": {
-        "editor.formatOnSave": false,
-        "editor.formatOnPaste": false,
-        "editor.formatOnType": false
-    },
-    "[cpp]": {
-        "editor.formatOnSave": false,
-        "editor.formatOnPaste": false,
-        "editor.formatOnType": false
-    },
-    "[ahk]": {
-        "editor.formatOnSave": false,
-        "editor.formatOnPaste": false,
-        "editor.formatOnType": false
-    },
-    "[ahk2]": {
-        "editor.formatOnSave": false,
-        "editor.formatOnPaste": false,
-        "editor.formatOnType": false
-    },
-    "[vue]": {
+    "[vue][typescript][javascript][html]": {
         "editor.tabSize": 2,
         "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     },
-    "[markdown]": {
+    "[css][markdown]": {
         "editor.tabSize": 2,
         "editor.formatOnSave": false
     },
