@@ -46,12 +46,12 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 # GitHub
 
 ### 📈 Stats
-![](https://github-readme-stats.vercel.app/api?username=XulbuX-dev&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=XulbuX-dev&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX-dev&theme=dark&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=XulbuX-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XulbuX-dev&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=XulbuX-dev&theme=default&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=XulbuX-dev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
 <br>
