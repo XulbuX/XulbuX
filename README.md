@@ -48,22 +48,11 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=XulbuX-dev&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------
+![](https://visitcount.itsvg.in/api?id=XulbuX-dev&icon=8&color=6) ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
 <div align="center">
-<kbd>
-
-  [![](https://visitcount.itsvg.in/api?id=XulbuX-dev&icon=8&color=9)](https://visitcount.itsvg.in)
-  <br><br><br>
-  ...people have visited my profile.
-  <br><br>
-  Now, including you 😊
-
-</kbd>
-
-<br><br>
-
-⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
 ```console
                __  __              
