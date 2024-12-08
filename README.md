@@ -20,6 +20,8 @@
 - 🌐 Exploring the intersection of gaming and programming
 - 🎨 Love in colors and pretty good at designing
 
+<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br>
