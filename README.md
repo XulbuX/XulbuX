@@ -54,9 +54,11 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <br>
 
 ------------------------------------------------------------------
-![](https://visitcount.itsvg.in/api?id=XulbuX-dev&icon=8&color=6) ⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
+![](https://visitcount.itsvg.in/api?id=XulbuX-dev&icon=8&color=6)
 
 <div align="center">
+
+⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
 
 ```console
                __  __              
