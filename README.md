@@ -50,7 +50,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XulbuX-dev&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX-dev&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 Trophies<br>![](https://github-profile-trophy.vercel.app/?username=XulbuX-dev&theme=default&no-frame=true&no-bg=false&margin-w=4)
+### 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=XulbuX-dev&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
 
 <br>
