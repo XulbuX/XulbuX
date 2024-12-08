@@ -22,7 +22,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br>
 
 # 🔍 Current Focus
 - 🐍 Mastering the art of Python
