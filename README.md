@@ -52,12 +52,12 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 # GitHub
 
 ### 📈 <strong>$\color{#319FE7}\textsf{Stats}$</strong>
-![](https://github-readme-stats.vercel.app/api?username=XulbuX-dev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XulbuX-dev&theme=dracula&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX-dev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XulbuX&theme=dracula&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 <strong>$\color{#FFB02E}\textsf{Trophies}$</strong>
-![](https://github-profile-trophy.vercel.app/?username=XulbuX-dev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=XulbuX&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
 <br>
@@ -65,11 +65,11 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 <br>
 
 ------------------------------------------------------------------
-![](https://visitcount.itsvg.in/api?id=XulbuX-dev&icon=8&color=6)
+![](https://visitcount.itsvg.in/api?id=XulbuX&icon=8&color=6)
 
 <div align="center">
 
-⭐️ From [XulbuX-dev](https://github.com/XulbuX-dev)
+⭐️ From [XulbuX](https://github.com/XulbuX)
 
 ```console
                __  __              
