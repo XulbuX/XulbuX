@@ -69,6 +69,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
+![Visits](https://img.shields.io/badge/Visits-25694-blue)
+
 ⭐️ From [XulbuX](https://github.com/XulbuX)
 
 ```console
