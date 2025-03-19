@@ -14,6 +14,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # FETCH ALL HISTORY TO AVOID CONFLICTS
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Increment view counter
         id: increment
@@ -22,18 +27,17 @@ jobs:
           views=$(cat PAGE_VIEWS)
           views=$((views + 1))
           echo $views > PAGE_VIEWS
-          echo "::set-output name=views::$views"
+          echo "views=$views" >> $GITHUB_OUTPUT
 
       - name: Update README.md
         run: |
-          views=${{ steps.increment.outputs.views }}
-          badge="![Page Views](https://img.shields.io/badge/Page%20Views-0-blue)"
-          sed -i 's|!\[Page Views\](https://img.shields.io/badge/Page%20Views-.*-blue)|'"$badge"'|' README.md
+          views="${{ steps.increment.outputs.views }}"
+          sed -i "s|!\[Page Views\](https://img.shields.io/badge/Page%20Views-.*-blue)|![Page Views](https://img.shields.io/badge/Page%20Views-$views-blue)|" README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add PAGE_VIEWS README.md
-          git commit -m 'update page views'
+          git commit -m 'update page views' || echo "No changes to commit"
           git push
