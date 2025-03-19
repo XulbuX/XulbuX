@@ -69,7 +69,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
-![Page Views](https://img.shields.io/badge/Page%20Views-2-blue)
+![Page Views](https://img.shields.io/badge/Page%20Views-0-blue)
 
 ⭐️ From [XulbuX](https://github.com/XulbuX)
 
