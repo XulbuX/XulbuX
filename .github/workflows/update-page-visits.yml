@@ -1,0 +1,39 @@
+name: Update Page Views
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  update-page-views:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Increment view counter
+        id: increment
+        run: |
+          if [ ! -f PAGE_VIEWS ]; then echo "0" > PAGE_VIEWS; fi
+          views=$(cat PAGE_VIEWS)
+          views=$((views + 1))
+          echo $views > PAGE_VIEWS
+          echo "::set-output name=views::$views"
+
+      - name: Update README.md
+        run: |
+          views=${{ steps.increment.outputs.views }}
+          badge="![Page Views](https://img.shields.io/badge/Page%20Views-0-blue)"
+          sed -i 's|!\[Page Views\](https://img.shields.io/badge/Page%20Views-.*-blue)|'"$badge"'|' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add PAGE_VIEWS README.md
+          git commit -m 'update page views'
+          git push
