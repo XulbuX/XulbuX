@@ -69,7 +69,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
-![Page Views](https://img.shields.io/badge/Page%20Views-7-blue)
+![Page Views](https://komarev.com/ghpvc/?username=XulbuX&repo=XulbuX&color=7075FF&label=Page+Views)
 
 ⭐️ From [XulbuX](https://github.com/XulbuX)
 
