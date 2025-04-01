@@ -6,13 +6,13 @@
     $\color{#7075FF}\Huge\textsf{Nice\ to\ see}$
     $\color{#7075FF}\Huge\textsf{you\ here.}$
   </h1>
-  <p><br></p>
+  
+  <br>
+  <br>
   
   ![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FF8080&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Front-End+Development;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Back-End+Development)
 
 </div>
-
-<br>
 
 # 🚀 About Me
 - 🎮 Passionate coder and modding enthusiast
@@ -21,14 +21,13 @@
 - 🎨 Love in colors and pretty good at designing
 
 <br>
+<br>
 
 <div align="center">
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=XulbuX&quote=Who+says+programmers+are+boring?+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!)
 
 </div>
-
-<br>
 
 # 🔍 Current Focus
 - 🐍 Mastering the art of Python
