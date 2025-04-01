@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=XulbuX&quote=Who+says+programmers+are+boring?+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=XulbuX&quote=Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos%21%E2%80%89)
 
 </div>
 
