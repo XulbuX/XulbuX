@@ -69,7 +69,7 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 <div align="center">
 
-![Page Views](https://komarev.com/ghpvc/?username=XulbuX&repo=XulbuX&color=7075FF&label=Page+Views)
+![Profile Views](https://u8views.com/api/v1/github/profiles/142539516/views/day-week-month-total-count.svg)
 
 ⭐️ From [XulbuX](https://github.com/XulbuX)
 
