@@ -32,7 +32,7 @@
                 "size": 12
             },
             "historySize": 1000000,
-            "intenseTextStyle": "all",
+            "intenseTextStyle": "bold",
             "opacity": 50,
             "padding": "12",
             "useAcrylic": true
@@ -42,6 +42,29 @@
         ]
     },
     "schemes": [
+        {
+            "background": "#151B23",
+            "black": "#1A1A1A",
+            "blue": "#6065FF",
+            "brightBlack": "#404040",
+            "brightBlue": "#8085FF",
+            "brightCyan": "#80FFF4",
+            "brightGreen": "#2BFF9A",
+            "brightPurple": "#FF55C8",
+            "brightRed": "#FF6670",
+            "brightWhite": "#F1F2FF",
+            "brightYellow": "#FF8C5A",
+            "cursorColor": "#6DD2FF",
+            "cyan": "#14CCBD",
+            "foreground": "#A5D6FF",
+            "green": "#2EE37F",
+            "name": "GitHub Dark",
+            "purple": "#E53CE8",
+            "red": "#EB3E52",
+            "selectionBackground": "#808088",
+            "white": "#E0E0ED",
+            "yellow": "#FF8060"
+        },
         {
             "background": "#190032",
             "black": "#340069",
