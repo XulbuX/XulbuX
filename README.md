@@ -1,9 +1,11 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="100%" height="auto" display="block" draggable="false"/>
   <h1 style="display:flex"> <!-- each new can wrap -->
-    $\Huge\textsf{👋}$
-    $\Huge\textsf{Hi, I'm XulbuX!}$
-    $\Huge\textsf{Nice to see}$
+    $\Huge\textsf{Hi, I'm}$
+    $\Huge\textsf{XulbuX!}$
+    $\Huge\textsf{👋 }$
+    $\Huge\textsf{Nice}$
+    $\Huge\textsf{to see}$
     $\Huge\textsf{you here.}$
   </h1>
   
