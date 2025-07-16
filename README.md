@@ -1,10 +1,12 @@
 <div align="center">
   <img src="img/XulbuX_SVG-LOGO_v2.0_BANNER.png" width="100%" height="auto" display="block" draggable="false"/>
   <h1 style="display:flex"> <!-- each new can wrap -->
-    $\color{#7075FF}\Huge\textsf{👋}$
-    $\color{#7075FF}\Huge\textsf{Hi,\ I'm\ XulbuX!}$
-    $\color{#7075FF}\Huge\textsf{Nice\ to\ see}$
-    $\color{#7075FF}\Huge\textsf{you\ here.}$
+    $\Huge\textsf{Hi, I'm}$
+    $\Huge\textsf{XulbuX!}$
+    $\Huge\textsf{👋 }$
+    $\Huge\textsf{Nice}$
+    $\Huge\textsf{to see}$
+    $\Huge\textsf{you here.}$
   </h1>
   
   <br>
@@ -25,7 +27,7 @@
 
 <div align="center">
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=XulbuX&quote=Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos%21%E2%80%89)
+![My DEV Quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&author=XulbuX&quote=Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos%21%E2%80%89)
 
 </div>
 
@@ -50,12 +52,12 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 # GitHub
 
-### 📈 <strong>$\color{#319FE7}\textsf{Stats}$</strong>
+### 📈 **Stats**
 ![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XulbuX&theme=dracula&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 <strong>$\color{#FFB02E}\textsf{Trophies}$</strong>
+### 🏆 **Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=XulbuX&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
