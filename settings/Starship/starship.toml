@@ -1,0 +1,98 @@
+# ~/.config/starship.toml
+
+add_newline = true
+command_timeout = 2500
+format = """\
+[╭─](#7E7E85) $env_var$all\
+$os
+$character"""
+
+[character]
+success_symbol = '[╰─](bold #2BFF9A)'
+error_symbol = '[╰─](bold #FF6665)'
+
+####################################################################################################
+
+[os]
+format = '[$symbol](bold #C2C2CC)'
+disabled = false
+
+[os.symbols]
+Windows = ''
+Arch = '󰣇'
+Ubuntu = ''
+Macos = ''
+
+####################################################################################################
+
+[username]
+disabled = false
+show_always = true
+style_user = 'bold #FCFCFF'
+style_root = 'italic #FCFCFF'
+format = '[$user]($style) '
+
+[hostname]
+disabled = false
+ssh_only = false
+style = "bold #8085FF"
+format = 'on [$hostname]($style) '
+
+[directory]
+truncation_length = 1
+truncation_symbol = '…/'
+home_symbol = '󰋜 ~'
+read_only_style = '197'
+read_only = '  '
+style = 'bold #75FFF6'
+format = 'at [$path]($style)[$read_only]($read_only_style) '
+
+[git_branch]
+# truncation_length = 4
+truncation_symbol = '…/'
+symbol = ' '
+style = 'bold #E6E6F0'
+format = 'via [$symbol$branch]($style)'
+
+[git_status]
+conflicted = '🏳'
+up_to_date = ''
+untracked = '[ ](#82A3FF)'
+stashed = '[ ](#77DFF4)'
+modified = '[ ](#77DFF4)'
+renamed = '[襁 ](#FF9963)'
+deleted = '[ ](#FF7A63)'
+staged = '[++\($count\)](#64EDD4)'
+ahead = '[⇡${count}](#2BFF9A)'
+behind = '[⇣${count}](#FF6665)'
+diverged = '⇕[⇡${ahead_count}](#2BFF9A)[⇣${behind_count}](#FF6665)'
+style = 'bold #B6B6BF'
+format = ' [$all_status$ahead_behind]($style) '
+
+[kubernetes]
+disabled = false
+style = "bold #B480FF"
+format = 'via [󱃾 $context\($namespace\)]($style) '
+
+####################################################################################################
+
+[vagrant]
+disabled = true
+
+[docker_context]
+disabled = true
+
+[helm]
+disabled = true
+
+[python]
+disabled = false
+
+[nodejs]
+disabled = false
+
+[ruby]
+disabled = true
+
+[terraform]
+disabled = true
