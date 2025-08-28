@@ -171,6 +171,7 @@
             "elevate": true,
             "experimental.rightClickContextMenu": false,
             "font": {
+                "cellHeight": "1.15",
                 "colorGlyphs": false,
                 "face": "JetBrainsMono Nerd Font",
                 "size": 12,
