@@ -68,10 +68,6 @@
             "keys": "ctrl+alt+left"
         },
         {
-            "id": "User.closePane",
-            "keys": "ctrl+w"
-        },
-        {
             "id": null,
             "keys": "ctrl+numpad0"
         },
@@ -154,6 +150,10 @@
         {
             "id": null,
             "keys": "enter"
+        },
+        {
+            "id": "User.closePane",
+            "keys": "ctrl+q"
         }
     ],
     "language": "en-US",
