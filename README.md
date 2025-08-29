@@ -53,10 +53,10 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 # GitHub
 
 ### 📈 **Stats**
-[![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=XulbuX&theme=github_dark_dimmed&hide_border=true)](#)
+[![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=XulbuX&theme=buefy&hide_border=true)](#)
 
 ### 🏆 **Trophies**
-[![](https://github-profile-trophy.vercel.app/?username=XulbuX&theme=dracula&no-frame=true&no-bg=false&margin-w=4)](#)
+[![](https://github-profile-trophy.vercel.app/?username=XulbuX&no-frame=true&no-bg=false&margin-w=4)](#)
 
 
 <br>
