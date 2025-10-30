@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="assets/img/xulbux_banner_xxl.png" width="100%"></a>
+  <button disabled><img src="assets/img/xulbux_banner_xxl.png" width="100%"></button>
   <h1 style="display:flex"> <!-- each new can wrap -->
     $\Huge\textsf{Hi, I'm}$
     $\Huge\textsf{XulbuX!}$
