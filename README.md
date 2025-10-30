@@ -30,12 +30,12 @@ Love in coding and technical thinking – good eye for colors and modern design 
 
 # < **Current Focus** />[<img src="assets/img/crosshair.svg" width="40" align="left">](#)
 - 🐍 Mastering the art of **[`Python`](https://github.com/XulbuX/Python)**
-- 🔧 Trying to learn more about `C`, `C#` and `C++`
+- 🔥 Trying to learn more about `C`, `C#` and `C++`
 - 📦 Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/XulbuX/PythonLibraryXulbuX)**
 - 📟 Writing super useful and powerful **[command line tools](https://github.com/XulbuX/Python/tree/main/Projects/Commands)** and optimizing the heck out of them
 - 🧩 Making **[VSCode extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time
 - 🌐 Crafting beautiful websites and apps with `HTML5`, `CSS3` and `JS`/`TS` (+ `Inertia`, `Vue`, `PHP`, …)
-- 🛠️ Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience
+- 🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience
 
 <br>
 
