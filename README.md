@@ -32,12 +32,13 @@ modern design – hobby photographer and short film creator<br>
 
 # < **Current Focus** />[<img src="assets/img/crosshair.svg" width="40" align="left">](#)
 - 🐍 Mastering the art of **[Python](https://github.com/XulbuX/Python)**
-- 🔥 Trying to learn more about `C`, `C#` and `C++`
+- 🚀 Trying to learn more about `C`, `C#` and `C++`
 - 📦 Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/XulbuX/PythonLibraryXulbuX)**
 - 📟 Writing super useful and powerful **[command line tools](https://github.com/XulbuX/Python/tree/main/Projects/Commands)** and optimizing the heck out of them
 - 🧩 Making **[VSCode extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time
 - 🌐 Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …)
 - 🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience
+- 🎥 Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally
 
 ### 🔥 **I Definitely Recommend Checking Out**
 [![format_codes](https://img.shields.io/badge/Python_Library_XulbuX-FF7E58?style=for-the-badge)](https://github.com/XulbuX/PythonLibraryXulbuX) [![format_codes](https://img.shields.io/badge/Python-FF7E58?style=for-the-badge)](https://github.com/XulbuX/Python) [![format_codes](https://img.shields.io/badge/Auto_Hotkey-FF7E58?style=for-the-badge)](https://github.com/XulbuX/AutoHotkey)
