@@ -17,7 +17,7 @@
 </div>
 
 # < **About Me** />[<img src="assets/img/info.svg" width="40" align="left">](#)
-Developer on GitHub – good eye for colors and modern design – hobby photographer and short film creator – always creating more cool stuff for you!
+Developer on GitHub – good eye for colors and modern design – hobby photographer and short film creator **– always creating more cool stuff for you!**
 
 <br>
 <br>
