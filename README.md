@@ -39,6 +39,9 @@ modern design – hobby photographer and short film creator<br>
 - 🌐 Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …)
 - 🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience
 
+### 🔥 **I Definitely Recommend Checking Out**
+[![format_codes](https://img.shields.io/badge/Python_Library_XulbuX-FF7E58?style=for-the-badge)](https://github.com/XulbuX/PythonLibraryXulbuX) [![format_codes](https://img.shields.io/badge/Python-FF7E58?style=for-the-badge)](https://github.com/XulbuX/Python) [![format_codes](https://img.shields.io/badge/Auto_Hotkey-FF7E58?style=for-the-badge)](https://github.com/XulbuX/AutoHotkey)
+
 <br>
 
 # < **Let's Connect!** />[<img src="assets/img/handshake.svg" width="40" align="left">](#)
