@@ -3,7 +3,7 @@
   <h1 style="display:flex"> <!-- each new can wrap -->
     $\Huge\textsf{Hi, I'm}$
     $\Huge\textsf{XulbuX!}$
-    $\Huge\textsf{👋 }$
+    $\Huge\textsf{✋😃 }$
     $\Huge\textsf{Nice}$
     $\Huge\textsf{to see}$
     $\Huge\textsf{you here.}$
@@ -17,7 +17,9 @@
 </div>
 
 # < **About Me** />[<img src="assets/img/info.svg" width="40" align="left">](#)
-Love in coding and technical thinking – good eye for colors and modern design – hobby photographer and short film creator **– always creating more cool stuff for you!**
+Love in coding and technical thinking – good eye for colors and<br>
+modern design – hobby photographer and short film creator<br>
+**—⠀always creating more cool stuff for you!**
 
 <br>
 <br>
@@ -40,7 +42,8 @@ Love in coding and technical thinking – good eye for colors and modern design 
 <br>
 
 # < **Let's Connect!** />[<img src="assets/img/handshake.svg" width="40" align="left">](#)
-Feel free to explore my repositories and don't hesitate to reach out for questions or just a friendly chat about coding and designing!
+Feel free to explore my repositories and don't hesitate to reach out<br>
+for questions or just a friendly chat about coding and designing!
 
 <br>
 
@@ -72,7 +75,8 @@ Feel free to explore my repositories and don't hesitate to reach out for questio
 
 [![Profile Views](https://u8views.com/api/v1/github/profiles/142539516/views/day-week-month-total-count.svg)](#)
 
-✨ From **[XulbuX](https://github.com/XulbuX)** ✨
+✨ From **[XulbuX](https://github.com/XulbuX)** ✨<br>
+**ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧**
 
 <br>
 <br>
