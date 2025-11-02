@@ -430,13 +430,14 @@
         reader.onload = (event) => {
           currentImg = event.target.result;
           previewImg.src = currentImg;
-          bannerPreview.style.height = 'auto';
           previewImg.classList.add('loaded');
+          setFixWidth(parseInt(inputFixWidth.value, 10));
+          setFixHeight(parseInt(inputFixHeight.value, 10));
         };
         reader.readAsDataURL(file);
       }
       else {
-        bannerPreview.style.height = '320px';
+        setFixHeight(320);
       }
     });
 
