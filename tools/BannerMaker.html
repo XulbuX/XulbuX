@@ -18,65 +18,54 @@
       Export Banner
     </button>
   </header>
+
   <main>
     <div class="input-section">
       <div class="input-group" title="Banner Text">
         <label for="input-txt">
-          <img src="assets/img/input_txt.svg" als="Text Icon" />
+          <img src="assets/img/input_txt.svg" alt="Text Icon" />
         </label>
         <input id="input-txt" type="text" placeholder="Banner Text" />
       </div>
-      <div class="input-group" title="Text Tint Color">
-        <label for="input-txt-tint">
-          <img src="assets/img/input_tint.svg" als="Tint Icon" />
+      <div class="input-group" title="Text Color">
+        <label for="input-txt-color">
+          <img src="assets/img/input_txt_color.svg" alt="Color Icon" />
         </label>
-        <input id="input-txt-tint" type="color" />
+        <input id="input-txt-color" type="color" />
+      </div>
+      <div class="input-group" title="Card Tint Color">
+        <label for="input-card-tint">
+          <img src="assets/img/input_card_tint.svg" alt="Tint Icon" />
+        </label>
+        <input id="input-card-tint" type="color" />
       </div>
       <div class="input-group" title="Banner Image">
         <label for="input-img">
-          <img src="assets/img/input_img.svg" als="Image Icon" />
+          <img src="assets/img/input_img.svg" alt="Image Icon" />
         </label>
         <input id="input-img" type="file" accept="image/*" />
       </div>
+      <div class="input-group" title="Fix Banner Width [px]">
+        <label for="input-fix-width">
+          <img src="assets/img/input_fix_width.svg" alt="Text Icon" />
+        </label>
+        <input id="input-fix-width" type="number" placeholder="Fix Banner Width in Pixels" />
+      </div>
+      <div class="input-group" title="Fix Banner Height [px]">
+        <label for="input-fix-height">
+          <img src="assets/img/input_fix_height.svg" alt="Text Icon" />
+        </label>
+        <input id="input-fix-height" type="number" placeholder="Fix Banner Height in Pixels" />
+      </div>
     </div>
-    <div class="banner-preview">
-      <img id="preview-img" alt="Banner Image">
-      <svg class="overlay-svg">
-        <defs>
-          <clipPath id="txt-clip-path">
-            <text
-              x="50%"
-              y="50%"
-              text-anchor="middle"
-              dominant-baseline="middle" 
-              font-family="interstate, sans-serif"
-              font-weight="900"
-              font-size="48px" />
-          </clipPath>
-          <filter id="blur-filter">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
-          </filter>
-        </defs>
-        <image
-          id="blurred-overlay"
-          width="100%"
-          height="100%"
-          filter="url(#blur-filter)"
-          clip-path="url(#txt-clip-path)" />
-      </svg>
-      <svg class="overlay-svg">
-        <text
-          id="tint-overlay"
-          x="50%"
-          y="50%"
-          text-anchor="middle"
-          dominant-baseline="middle" 
-          font-family="interstate, sans-serif"
-          font-weight="900"
-          font-size="48px"
-          fill="white"
-          opacity="0.3" />
-      </svg>
+
+    <div class="preview-container">
+      <div id="banner-preview">
+        <img id="preview-img" alt="Banner Image">
+        <div id="preview-card">
+          <div id="preview-txt" />
+        </div>
+      </div>
     </div>
   </main>
 
@@ -115,7 +104,7 @@
 
     main {
       margin: 40px auto;
-      max-width: 1200px;
+      max-width: 900px;
       padding: 0 24px;
     }
 
@@ -208,6 +197,65 @@
       cursor: not-allowed;
     }
 
+    #banner-preview {
+      width: 100%;
+      margin: 1px;
+      border-radius: 12px;
+      overflow: clip;
+      position: relative;
+      box-shadow: 0 0 0 0.5px var(--border-2-color);
+      background-color: var(--gray-900);
+    }
+
+    #preview-txt {
+      opacity: 0.8;
+      position: relative;
+      pointer-events: none;
+      mix-blend-mode: multiply;
+      font-size: 3.5rem;
+      font-weight: 900;
+      font-family: "interstate", sans-serif;
+      font-style: normal;
+      text-shadow:
+        0 -2px 5px color-mix(in srgb, var(--txt-shadow-color) 25%, transparent),
+        0 -1px 0.5px color-mix(in srgb, var(--txt-shadow-color) 20%, black 14%),
+        0 1px 2px color-mix(in srgb, var(--txt-shadow-color) 20%, white 80%);
+    }
+
+    #preview-card {
+      z-index: 1;
+      top: 50%;
+      left: 50%;
+      max-width: 90%;
+      padding: 20px 30px;
+      border-radius: 20px;
+      transform: translate(-50%, -50%);
+      width: max-content;
+      position: absolute;
+      text-align: center;
+      box-shadow:
+        0 2px 4px 0 color-mix(in srgb, var(--gray-950) 10%, transparent),
+        0 8px 16px 0 color-mix(in srgb, var(--gray-950) 20%, transparent),
+        0 16px 48px 0 color-mix(in srgb, var(--gray-950) 30%, transparent),
+        inset 0 0 0 1px color-mix(in srgb, var(--gray-50) 5%, transparent),
+        inset 0 2px 4px 0 color-mix(in srgb, var(--gray-50) 8%, transparent);
+      backdrop-filter: blur(12px) saturate(180%);
+    }
+    /* NOISE TEXTURE OVERLAY */
+    #preview-card::after {
+      content: '';
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      opacity: 0.15;
+      position: absolute;
+      border-radius: inherit;
+      pointer-events: none;
+      mix-blend-mode: overlay;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    }
+
     #preview-img {
       width: 100%;
       height: 100%;
@@ -215,15 +263,6 @@
       object-fit: cover;
     }
     #preview-img.loaded { display: block }
-
-    #blurred-overlay {
-      display: none;
-      opacity: 0.6;
-    }
-    #blurred-overlay.visible { display: block }
-
-    #tint-overlay { display: none }
-    #tint-overlay.visible { display: block }
 
     .header-title {
       margin: 0;
@@ -260,116 +299,155 @@
       }
     }
 
-    .banner-preview {
-      margin: 0 auto;
+    .preview-container {
       width: 100%;
-      height: 320px;
-      max-width: 1280px;
-      border-radius: 12px;
-      overflow: clip;
-      position: relative;
-      box-shadow: 0 0 0 0.5px var(--border-2-color);
-      background-color: var(--gray-900);
-    }
-
-    .overlay-svg {
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      position: absolute;
-      pointer-events: none;
-    }
-
-    .banner-preview.empty::after {
-      content: 'Upload an image to get started';
-      top: 50%;
-      left: 50%;
-      position: absolute;
-      font-size: 1.125rem;
-      font-style: italic;
-      color: var(--gray-500);
-      transform: translate(-50%, -50%);
+      overflow: auto;
     }
   </style>
 
   <script>
     const initTxt = 'Sample Banner Text';
-    const initTint = '#FFFFFF';
+    const initTxtColor = '#00FFFF';
+    const initCardTint = '#FFFFFF';
     const initImg = 'assets/img/banner_img_sample.jpg';
+    const initFixWidth = null;
+    const initFixHeight = 320;
 
-    const txtInput = document.getElementById('input-txt');
-    const tintInput = document.getElementById('input-txt-tint');
-    const imgInput = document.getElementById('input-img');
+    const inputTxt = document.getElementById('input-txt');
+    const inputTxtColor = document.getElementById('input-txt-color');
+    const inputCardTint = document.getElementById('input-card-tint');
+    const inputImg = document.getElementById('input-img');
+    const inputFixWidth = document.getElementById('input-fix-width');
+    const inputFixHeight = document.getElementById('input-fix-height');
+    const bannerPreview = document.getElementById('banner-preview');
+    const previewTxt = document.getElementById('preview-txt');
+    const previewCard = document.getElementById('preview-card');
     const previewImg = document.getElementById('preview-img');
-    const blurredOverlay = document.getElementById('blurred-overlay');
-    const tintOverlay = document.getElementById('tint-overlay');
-    const svgTxt = document.querySelector('#txt-clip-path text');
 
-    let currentImage = null;
+    let currentImg = null;
 
     function setInitValues() {
-      txtInput.value = initTxt;
-      tintInput.value = initTint;
-      svgTxt.textContent = initTxt;
-      tintOverlay.textContent = initTxt;
-      tintOverlay.setAttribute('fill', initTint);
+      inputTxt.value = initTxt;
+      inputTxtColor.value = initTxtColor;
+      inputCardTint.value = initCardTint;
+      inputFixWidth.value = initFixWidth;
+      inputFixHeight.value = initFixHeight;
+      previewTxt.textContent = initTxt;
+      previewTxt.style.color = initTxtColor;
+      previewTxt.style.setProperty('--txt-shadow-color', initTxtColor);
+      updateCardTint(initCardTint);
+
+      setFixWidth(initFixWidth);
+      setFixHeight(initFixHeight);
 
       fetch(initImg)
         .then(response => response.blob())
         .then(blob => {
           const reader = new FileReader();
-          reader.onload = (event) => {
-            currentImage = event.target.result;
-            previewImg.src = currentImage;
-            blurredOverlay.setAttribute('href', currentImage);
+          reader.onload = (e) => {
+            currentImg = e.target.result;
+            previewImg.src = currentImg;
             previewImg.classList.add('loaded');
-            blurredOverlay.classList.add('visible');
-            tintOverlay.classList.add('visible');
           };
           reader.readAsDataURL(blob);
         })
-        .catch(err => console.warn('Could not load sample image:', err));
+        .catch(err => {
+          bannerPreview.style.height = '320px';
+          console.warn('Couldn\'t load sample image:', err);
+        });
     }
 
     setInitValues();
 
-    // UPDATE TEXT CONTENT
-    txtInput.addEventListener('input', (e) => {
-      const text = e.target.value.trim();
-      if (text) {
-        svgTxt.textContent = text;
-        tintOverlay.textContent = text;
-        blurredOverlay.classList.add('visible');
-        tintOverlay.classList.add('visible');
-      } else {
-        blurredOverlay.classList.remove('visible');
-        tintOverlay.classList.remove('visible');
+    function setFixWidth(width = null) {
+      if (width == null || isNaN(width)) {
+        bannerPreview.style.width = 'auto';
       }
+      else {
+        if (width < 500) {
+          width = 500;
+        } else if (width > 10_000) {
+          width = 10_000;
+          inputFixWidth.value = width;
+        }
+        bannerPreview.style.width = `${width}px`;
+      }
+    }
+
+    function setFixHeight(height = null) {
+      if (height == null || isNaN(height)) {
+        bannerPreview.style.height = 'auto';
+      }
+      else {
+        if (height < 140) {
+          height = 140;
+        } else if (height > 1000) {
+          height = 1000;
+          inputFixHeight.value = height;
+        }
+        bannerPreview.style.height = `${height}px`;
+      }
+    }
+
+    // UPDATE TEXT CONTENT
+    inputTxt.addEventListener('input', (e) => {
+      previewTxt.textContent = e.target.value || '';
     });
 
-    // UPDATE TEXT TINT COLOR
-    tintInput.addEventListener('input', (e) => {
-      tintOverlay.setAttribute('fill', e.target.value);
+    // UPDATE TEXT COLOR
+    inputTxtColor.addEventListener('input', (e) => {
+      previewTxt.style.color = e.target.value;
+      previewTxt.style.setProperty('--txt-shadow-color', e.target.value);
     });
+
+    // UPDATE CARD TINT COLOR
+    inputCardTint.addEventListener('input', (e) => {
+      updateCardTint(e.target.value);
+    });
+
+    function hexToRgb(hex) {
+      const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+      return result ? {
+        r: parseInt(result[1], 16),
+        g: parseInt(result[2], 16),
+        b: parseInt(result[3], 16)
+      } : { r: 255, g: 255, b: 255 };
+    }
+
+    function updateCardTint(color) {
+      const rgb = hexToRgb(color);
+      const bgGradient = `linear-gradient(135deg, 
+        rgba(${rgb.r}, ${rgb.g}, ${rgb.b}, 0.25) 0%, 
+        rgba(${rgb.r}, ${rgb.g}, ${rgb.b}, 0.15) 100%)`;
+      previewCard.style.background = bgGradient;
+    }
 
     // HANDLE IMAGE UPLOAD
-    imgInput.addEventListener('change', (e) => {
+    inputImg.addEventListener('change', (e) => {
       const file = e.target.files[0];
       if (file && file.type.startsWith('image/')) {
         const reader = new FileReader();
         reader.onload = (event) => {
-          currentImage = event.target.result;
-          previewImg.src = currentImage;
-          blurredOverlay.setAttribute('href', currentImage);
-          imgInput.value = currentImage;
+          currentImg = event.target.result;
+          previewImg.src = currentImg;
+          bannerPreview.style.height = 'auto';
           previewImg.classList.add('loaded');
-          blurredOverlay.classList.add('visible');
-          tintOverlay.classList.add('visible');
-          document.querySelector('.banner-preview').classList.remove('empty');
         };
         reader.readAsDataURL(file);
       }
+      else {
+        bannerPreview.style.height = '320px';
+      }
+    });
+
+    // HANDLE FIX WIDTH INPUT
+    inputFixWidth.addEventListener('input', (e) => {
+      setFixWidth(parseInt(e.target.value, 10));
+    });
+
+    // HANDLE FIX HEIGHT INPUT
+    inputFixHeight.addEventListener('input', (e) => {
+      setFixHeight(parseInt(e.target.value, 10));
     });
   </script>
 </body>
