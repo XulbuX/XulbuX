@@ -253,7 +253,7 @@
       border-radius: inherit;
       pointer-events: none;
       mix-blend-mode: overlay;
-      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+      background-image: var(--noise-texture);
     }
 
     #preview-img {
@@ -449,6 +449,41 @@
     inputFixHeight.addEventListener('input', (e) => {
       setFixHeight(parseInt(e.target.value, 10));
     });
+
+    // DYNAMIC NOISE TEXTURE GENERATION
+    function generateNoiseTexture(width, height) {
+      const svg = `
+        <svg viewBox='0 0 ${width} ${height}' xmlns='http://www.w3.org/2000/svg'>
+          <filter id='noiseFilter'>
+            <feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/>
+          </filter>
+          <rect width='100%' height='100%' filter='url(#noiseFilter)'/>
+        </svg>
+      `.trim();
+      
+      const encoded = encodeURIComponent(svg);
+      return `url("data:image/svg+xml,${encoded}")`;
+    }
+
+    function updateNoiseTexture() {
+      const rect = previewCard.getBoundingClientRect();
+      const noiseUrl = generateNoiseTexture(Math.ceil(rect.width), Math.ceil(rect.height));
+      previewCard.style.setProperty('--noise-texture', noiseUrl);
+    }
+
+    // DEBOUNCE FUNCTION TO PREVENT EXCESSIVE CALLS
+    let resizeTimeout;
+    function debounce(func, delay) {
+      return function() {
+        clearTimeout(resizeTimeout);
+        resizeTimeout = setTimeout(func, delay);
+      };
+    }
+
+    const resizeObserver = new ResizeObserver(debounce(() => updateNoiseTexture(), 100));
+    resizeObserver.observe(previewCard);
+
+    updateNoiseTexture();
   </script>
 </body>
 
