@@ -1,8 +1,7 @@
 <div align="center">
   <a href="#"><img src="assets/img/xulbux_welcome_banner.png" width="100%"></a>
+  <h6>This image was created using <strong><a href="https://xulbux.github.io/banner-maker">Banner Maker</a></strong>.</h6>
 
-  <br>
-  <br>
   <br>
   <br>
 
