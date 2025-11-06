@@ -52,6 +52,8 @@ for questions or just a friendly chat about coding and designing!
 
 ### 📈 **Stats**
 [![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=XulbuX&theme=buefy&hide_border=true)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+](#)
 
 ### 🏆 **Trophies**
 [![](https://github-profile-trophy.vercel.app/?username=XulbuX&no-frame=true&no-bg=false&margin-w=4)](#)
