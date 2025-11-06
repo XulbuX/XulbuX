@@ -1,16 +1,11 @@
 <div align="center">
   <a href="#"><img src="assets/img/xulbux_welcome_banner.png" width="100%"></a>
-  <h1 style="display:flex"> <!-- each new can wrap -->
-    $\Huge\textsf{Nice}$
-    $\Huge\textsf{to see}$
-    $\Huge\textsf{you here.}$
-    $\Huge\textsf{✋😃 }$
-  </h1>
 
   <br>
   <br>
+  <br>
 
-  [![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software)](#)
+  [![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
 </div>
 
 # < **About Me** />[<img src="assets/img/info.svg" width="40" align="left">](#-about-me-)
