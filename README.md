@@ -1,19 +1,16 @@
 <div align="center">
-  <a href="#"><img src="assets/img/xulbux_banner_xxl.png" width="100%"></a>
+  <a href="#"><img src="assets/img/xulbux_welcome_banner.png" width="100%"></a>
   <h1 style="display:flex"> <!-- each new can wrap -->
-    $\Huge\textsf{Hi, I'm}$
-    $\Huge\textsf{XulbuX!}$
-    $\Huge\textsf{✋😃 }$
     $\Huge\textsf{Nice}$
     $\Huge\textsf{to see}$
     $\Huge\textsf{you here.}$
+    $\Huge\textsf{✋😃 }$
   </h1>
-  
-  <br>
-  <br>
-  
-  [![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software)](#)
 
+  <br>
+  <br>
+
+  [![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software)](#)
 </div>
 
 # < **About Me** />[<img src="assets/img/info.svg" width="40" align="left">](#-about-me-)
