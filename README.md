@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="assets/img/xulbux_welcome_banner.png" width="100%"></a>
+  <a href="#"><img src="assets/img/xulbux_welcome_banner.webp" width="100%"></a>
   <h6>This image was created using <strong><a href="https://xulbux.github.io/banner-maker">Banner Maker</a></strong>.</h6>
 
   <br>
