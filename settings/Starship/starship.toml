@@ -8,28 +8,31 @@ $os
 $character"""
 
 [character]
-success_symbol = '[╰─](bold #2BFF9A)'
-error_symbol = '[╰─](bold #FF6665)'
+success_symbol = '[╰─](bold #5CFFA8)'
+error_symbol = '[╰─](bold #FF5063)'
 
 ####################################################################################################
 
 [os]
-format = '[$symbol](bold #C2C2CC)'
+format = '[$symbol](bold #DBDCE0)'
 disabled = false
 
 [os.symbols]
-Windows = ''
-Arch = '󰣇'
-Ubuntu = ''
-Macos = ''
+Arch = '󰣇 '
+Linux = ' '
+Ubuntu = ' '
+Fedora = '󰣛 '
+Debian = '󰣚 '
+Macos = '󰀵 '
+Windows = '󰖳 '
 
 ####################################################################################################
 
 [username]
 disabled = false
 show_always = true
-style_user = 'bold #FCFCFF'
-style_root = 'italic #FCFCFF'
+style_user = 'bold #F6F8FF'
+style_root = 'italic #F6F8FF'
 format = '[$user]($style) '
 
 [hostname]
@@ -41,31 +44,31 @@ format = 'on [$hostname]($style) '
 [directory]
 truncation_length = 1
 truncation_symbol = '…/'
-home_symbol = '󰋜 ~'
+home_symbol = ' ~'
 read_only_style = '197'
 read_only = '  '
 style = 'bold #75FFF6'
 format = 'at [$path]($style)[$read_only]($read_only_style) '
 
 [git_branch]
-# truncation_length = 4
+truncation_length = 20
 truncation_symbol = '…/'
 symbol = ' '
-style = 'bold #E6E6F0'
+style = 'bold #DBDCE0'
 format = 'via [$symbol$branch]($style)'
 
 [git_status]
 conflicted = '🏳'
 up_to_date = ''
 untracked = '[ ](#82A3FF)'
-stashed = '[ ](#77DFF4)'
+stashed = '[ ](#77DFF4)'
 modified = '[ ](#77DFF4)'
-renamed = '[襁 ](#FF9963)'
-deleted = '[ ](#FF7A63)'
+renamed = '[󰇉 ](#FF9963)'
+deleted = '[ ](#FF795F)'
 staged = '[++\($count\)](#64EDD4)'
-ahead = '[⇡${count}](#2BFF9A)'
-behind = '[⇣${count}](#FF6665)'
-diverged = '⇕[⇡${ahead_count}](#2BFF9A)[⇣${behind_count}](#FF6665)'
+ahead = '[⇡${count}](#5CFFA8)'
+behind = '[⇣${count}](#FF5063)'
+diverged = '󰃻[⇡${ahead_count}](#5CFFA8)[⇣${behind_count}](#FF5063)'
 style = 'bold #B6B6BF'
 format = ' [$all_status$ahead_behind]($style) '
 
