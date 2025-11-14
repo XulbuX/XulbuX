@@ -584,11 +584,11 @@
   },
   "ltex.language": "en",
   "material-icon-theme.folders.associations": {
-    // .vscode
-    //  ╰─extensions
-    //    ╰─icons
-    //      ├─folder-sample.svg
-    //      ╰─folder-sample-open.svg
+    // .vscode/
+    // ╰─extensions/
+    //   ╰─icons/
+    //     ├─folder-sample.svg
+    //     ╰─folder-sample-open.svg
     "xulbux": "../../../../icons/folder-xulbux"
   },
   "php-cs-fixer.autoFixByBracket": true,
@@ -618,6 +618,9 @@
   "vscode-office.editorTheme": "Auto",
   "vscode-office.openOutline": false,
   "vscode-office.previewCodeHighlight.showLineNumber": false,
+  "vue.editor.focusMode": false,
+  "vue.format.script.initialIndent": true,
+  "vue.format.style.initialIndent": true,
   "window.zoomLevel": 0,
   "workbench.colorCustomizations": {},
   "workbench.colorTheme": "XulbuX Neon Pro",
@@ -632,9 +635,6 @@
   },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.list.smoothScrolling": true,
-  "workbench.startupEditor": "none",
-  "vue.editor.focusMode": false,
-  "vue.format.style.initialIndent": true,
-  "vue.format.script.initialIndent": true,
-  "workbench.productIconTheme": "material-product-icons"
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.startupEditor": "none"
 }
