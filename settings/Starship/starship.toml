@@ -9,7 +9,7 @@ $character"""
 
 [character]
 success_symbol = '[╰─](bold #5CFFA8)'
-error_symbol = '[╰─](bold #FF5063)'
+error_symbol = '[╰─](bold #FF5560)'
 
 ####################################################################################################
 
@@ -67,8 +67,8 @@ renamed = '[󰇉 ](#FF9963)'
 deleted = '[ ](#FF795F)'
 staged = '[++\($count\)](#64EDD4)'
 ahead = '[⇡${count}](#5CFFA8)'
-behind = '[⇣${count}](#FF5063)'
-diverged = '󰃻[⇡${ahead_count}](#5CFFA8)[⇣${behind_count}](#FF5063)'
+behind = '[⇣${count}](#FF5560)'
+diverged = '󰃻[⇡${ahead_count}](#5CFFA8)[⇣${behind_count}](#FF5560)'
 style = 'bold #B6B6BF'
 format = ' [$all_status$ahead_behind]($style) '
 
