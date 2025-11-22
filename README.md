@@ -33,7 +33,7 @@ modern design – hobby photographer and short film creator<br>
 - 🎥 Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally
 
 ### 🔥 **I Definitely Recommend Checking Out**
-[![format_codes](https://img.shields.io/badge/Python_Library_XulbuX-FF7E58?style=for-the-badge)](https://github.com/XulbuX/PythonLibraryXulbuX) [![format_codes](https://img.shields.io/badge/Python-FF7E58?style=for-the-badge)](https://github.com/XulbuX/Python) [![format_codes](https://img.shields.io/badge/Auto_Hotkey-FF7E58?style=for-the-badge)](https://github.com/XulbuX/AutoHotkey)
+[![format_codes](https://img.shields.io/badge/Python_Library_XulbuX-B272FC?style=for-the-badge)](https://github.com/XulbuX/PythonLibraryXulbuX) [![format_codes](https://img.shields.io/badge/Python-B272FC?style=for-the-badge)](https://github.com/XulbuX/Python) [![format_codes](https://img.shields.io/badge/Auto_Hotkey-B272FC?style=for-the-badge)](https://github.com/XulbuX/AutoHotkey)
 
 <br>
 
