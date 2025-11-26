@@ -1,0 +1,15 @@
+[
+  {
+    "key": "alt+t",
+    "command": "workbench.action.terminal.new",
+    "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
+  },
+  {
+    "key": "alt+s",
+    "command": "editor.action.sortLinesAscending"
+  },
+  {
+    "key": "shift+alt+s",
+    "command": "editor.action.sortLinesDescending"
+  }
+]
