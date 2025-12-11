@@ -72,9 +72,8 @@
     }
   ],
   "chat.tools.terminal.autoApprove": {
-    "npm run build:mail": true,
-    "npm run build:ssr": true,
-    "npm run build": true,
+    "php artisan test.*": true,
+    "npm run build(?:\\:\\w+)?": true,
     "pip list": true,
     "py": true,
     "python": true
@@ -274,6 +273,7 @@
     "keybind",
     "knockback",
     "kwarg",
+    "LANCZOS",
     "laravel",
     "lastname",
     "lcfirst",
@@ -285,6 +285,7 @@
     "lightgreen",
     "lightningcss",
     "linecap",
+    "livelox",
     "localappdata",
     "LOGB",
     "LTEX",
@@ -298,6 +299,7 @@
     "medialibrary",
     "MEIPASS",
     "Menlo",
+    "metatag",
     "mfsupport",
     "MGMT",
     "minecart",
@@ -497,6 +499,7 @@
     "userdomain",
     "useremail",
     "userprofile",
+    "vaporwave",
     "vcard",
     "venv",
     "vhosts",
@@ -554,10 +557,15 @@
   "easy-codesnap.boxShadow": "5px 5px 14px 0px rgba(0,0,0,0.4)",
   "easy-codesnap.enableResizing": false,
   "easy-codesnap.roundingLevel": 2,
-  "easy-codesnap.saveFormat": "svg",
+  "easy-codesnap.saveFormat": "png",
+  "easy-codesnap.saveScale": 4,
   "easy-codesnap.showWindowControls": false,
   "easy-codesnap.shutterAction": "save",
+  "easy-codesnap.uiCustomColors": {
+    "watermarkPositionInputSelectedBackgroud": "var(--vscode-focusBorder)"
+  },
   "editor.codeLensFontFamily": "JetBrainsMono NF",
+  "editor.colorDecorators": false,
   "editor.cursorBlinking": "expand",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "JetBrainsMono NF",
@@ -616,17 +624,17 @@
   "material-icon-theme.folders.associations": {
     // .vscode/
     // ╰─extensions/
-    //   ╰─icons/
+    //   ╰─icon/
     //     ├─folder-sample.svg
     //     ╰─folder-sample-open.svg
-    "xulbux": "../../../../icons/folder-xulbux"
+    "xulbux": "../../../../icon/folder-xulbux"
   },
   "php-cs-fixer.autoFixByBracket": true,
   "php-cs-fixer.executablePath": "php-cs-fixer",
   "php-cs-fixer.onsave": true,
-  "python.REPL.enableREPLSmartSend": false,
   "python.analysis.typeCheckingMode": "standard",
   "python.createEnvironment.trigger": "off",
+  "python.REPL.enableREPLSmartSend": false,
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": true,
   "redhat.telemetry.enabled": true,
@@ -653,6 +661,7 @@
   "vue.format.style.initialIndent": true,
   "window.zoomLevel": 0,
   "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "XulbuX PRO",
   "workbench.editor.empty.hint": "hidden",
   "workbench.editorAssociations": {
     "{git,gitlens}:/**/*.{md,csv}": "default",
@@ -665,6 +674,5 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.list.smoothScrolling": true,
   "workbench.productIconTheme": "material-product-icons",
-  "workbench.startupEditor": "none",
-  "workbench.colorTheme": "XulbuX PRO"
+  "workbench.startupEditor": "none"
 }
