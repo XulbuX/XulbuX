@@ -71,6 +71,9 @@
       "italic": true
     }
   ],
+  "chat.agent.maxRequests": 30,
+  "chat.editing.confirmEditRequestRemoval": false,
+  "chat.editing.confirmEditRequestRetry": false,
   "chat.tools.terminal.autoApprove": {
     "php artisan test.*": true,
     "npm run build(?:\\:\\w+)?": true,
@@ -78,6 +81,20 @@
     "py": true,
     "python": true
   },
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.configureOnOpen": true,
+  "cmake.configureSettings": {
+    "CMAKE_C_COMPILER": "C:/msys64/ucrt64/bin/gcc.exe",
+    "CMAKE_CXX_COMPILER": "C:/msys64/ucrt64/bin/g++.exe"
+  },
+  "cmake.generator": "Ninja",
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "cmake.showConfigureWithDebuggerNotification": false,
+  "cmake.showOptionsMovedNotification": false,
+  "color-highlight.markRuler": false,
   "cSpell.blockCheckingWhenLineLengthGreaterThan": 10000,
   "cSpell.maxNumberOfProblems": 10000,
   "cSpell.overviewRulerColor": "#F0B7",
@@ -534,24 +551,9 @@
     "yscrollcommand",
     "zetta"
   ],
-  "chat.editing.confirmEditRequestRemoval": false,
-  "chat.editing.confirmEditRequestRetry": false,
-  "cmake.buildDirectory": "${workspaceFolder}/build",
-  "cmake.configureOnOpen": true,
-  "cmake.configureSettings": {
-    "CMAKE_C_COMPILER": "C:/msys64/ucrt64/bin/gcc.exe",
-    "CMAKE_CXX_COMPILER": "C:/msys64/ucrt64/bin/g++.exe"
-  },
-  "cmake.generator": "Ninja",
-  "cmake.pinnedCommands": [
-    "workbench.action.tasks.configureTaskRunner",
-    "workbench.action.tasks.runTask"
-  ],
-  "cmake.showConfigureWithDebuggerNotification": false,
-  "cmake.showOptionsMovedNotification": false,
-  "color-highlight.markRuler": false,
   "debug.console.fontFamily": "JetBrainsMono NF",
   "debug.onTaskErrors": "debugAnyway",
+  "diffEditor.hideUnchangedRegions.enabled": true,
   "diffEditor.ignoreTrimWhitespace": false,
   "easy-codesnap.backgroundColor": "#0000",
   "easy-codesnap.boxShadow": "5px 5px 14px 0px rgba(0,0,0,0.4)",
@@ -638,6 +640,7 @@
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": true,
   "redhat.telemetry.enabled": true,
+  "scm.inputFontFamily": "editor",
   "security.allowedUNCHosts": [
     "172.20.10.11"
   ],
