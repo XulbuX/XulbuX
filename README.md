@@ -59,7 +59,7 @@ for questions or just a friendly chat about coding and designing!
 [![Tools & Platforms](https://skillicons.dev/icons?perline=6&i=git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino)](#)&#8195;&#8195;&#8194;&#8202;
 [![Cloud & Infrastructure](https://skillicons.dev/icons?perline=4&i=aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite)](#)<br><br>
 
-[![Design & Creative](https://skillicons.dev/icons?perline=3&i=figma,ai,ps,pr,ae,blender)](#)&#8195;&#8195;&#8194;&#8202;
+[![Design & Creative](https://skillicons.dev/icons?perline=3&i=figma,ai,blender,ps,pr,ae)](#)&#8195;&#8195;&#8194;&#8202;
 [![Other](https://skillicons.dev/icons?perline=3&i=obsidian,notion,codepen,gtk,latex,regex)](#)
 
 </div>
