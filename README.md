@@ -1,11 +1,13 @@
 <div align="center">
-  <a href="#"><img src="assets/img/xulbux_welcome_banner.webp" width="100%"></a>
-  <h6>You can easily create a very similar banner image yourself using <strong><a href="https://xulbux.github.io/banner-maker">Banner Maker</a></strong>.</h6>
 
-  <br>
-  <br>
+<a href="#"><img src="assets/img/xulbux_welcome_banner.webp" width="100%"></a>
+<h6>You can easily create a very similar banner image yourself using <strong><a href="https://xulbux.github.io/banner-maker">Banner Maker</a></strong>.</h6>
 
-  [![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
+<br>
+<br>
+
+[![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
+
 </div>
 
 # < **About Me** />[<img src="assets/img/info.svg" width="40" align="left">](#-about-me-)
@@ -25,17 +27,17 @@ modern design – hobby photographer and short film creator<br>
 
 # < **Current Focus** />[<img src="assets/img/crosshair.svg" width="40" align="left">](#-current-focus-)
 
-- 🐍 Mastering the art of **[Python](https://github.com/XulbuX/Python)**
-- 🚀 Trying to learn more about `C`, `C#` and `C++`
-- 📦 Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/XulbuX/PythonLibraryXulbuX)**
-- 📟 Writing super useful and powerful **[command line tools](https://github.com/XulbuX/Python/tree/main/Projects/Commands)** and optimizing the heck out of them
-- 🧩 Making **[VSCode extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time
-- 🌐 Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …)
-- 🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience
-- 🎥 Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally
+- 🐍 Mastering the art of **[Python](https://github.com/XulbuX/Python)**.
+- 🚀 Trying to learn more about `C`, `C#` and `C++`.
+- 📦 Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/XulbuX/PythonLibraryXulbuX)**.
+- 📟 Writing super useful and powerful **[command line tools](https://github.com/XulbuX/Python/tree/main/Projects/Commands)** and optimizing the heck out of them.
+- 🧩 Making **[VSCode extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time.
+- 🌐 Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
+- 🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
+- 🎥 Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally.
 
 ### 🔥 **I Definitely Recommend Checking Out**
-[![format_codes](https://img.shields.io/badge/Python_Library_XulbuX-B272FC?style=for-the-badge)](https://github.com/XulbuX/PythonLibraryXulbuX) [![format_codes](https://img.shields.io/badge/Python-B272FC?style=for-the-badge)](https://github.com/XulbuX/Python) [![format_codes](https://img.shields.io/badge/Auto_Hotkey-B272FC?style=for-the-badge)](https://github.com/XulbuX/AutoHotkey)
+[![PythonLibraryXulbuX](https://img.shields.io/badge/Python_Library_XulbuX-B272FC?style=for-the-badge)](https://github.com/XulbuX/PythonLibraryXulbuX) [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-B272FC?style=for-the-badge)](https://github.com/XulbuX/VisualStudioCode) [![Python](https://img.shields.io/badge/Python-B272FC?style=for-the-badge)](https://github.com/XulbuX/Python)
 
 <br>
 
