@@ -1,5 +1,7 @@
 # ~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1
 
+# NOTE: This config is for PowerShell from https://aka.ms/powershell, not Windows PowerShell.
+
 ######################################## STARSHIP ########################################
 
 # INITIALIZE STARSHIP
