@@ -3,43 +3,44 @@
 add_newline = true
 command_timeout = 2500
 format = """\
-[╭─](#7E7E85) $env_var$all\
-$os
+[╭─](bright-black) \
+$username$hostname$os\
+$directory\
+$git_branch$git_status\
+$kubernetes$python$nodejs\
+$all\
 $character"""
 
 [character]
-success_symbol = '[╰─](bold #5CFFA8)'
-error_symbol = '[╰─](bold #FF5560)'
-
-####################################################################################################
-
-[os]
-format = '[$symbol](bold #DBDCE0)'
-disabled = false
-
-[os.symbols]
-Arch = '󰣇 '
-Linux = ' '
-Ubuntu = ' '
-Fedora = '󰣛 '
-Debian = '󰣚 '
-Macos = '󰀵 '
-Windows = '󰖳 '
+success_symbol = '[\$](bold bright-blue)'
+error_symbol = '[\$](bold bright-red)'
 
 ####################################################################################################
 
 [username]
 disabled = false
 show_always = true
-style_user = 'bold #F6F8FF'
-style_root = 'italic #F6F8FF'
+style_user = 'bold bright-white'
+style_root = 'italic bright-white'
 format = '[$user]($style) '
 
 [hostname]
 disabled = false
 ssh_only = false
-style = "bold #8085FF"
+style = "bold bright-blue"
 format = 'on [$hostname]($style) '
+
+[os]
+format = '[$symbol](bold blue) '
+disabled = false
+[os.symbols]
+Arch = '󰣇'
+Linux = ''
+Ubuntu = ''
+Fedora = '󰣛'
+Debian = '󰣚'
+Macos = '󰀵'
+Windows = '󰖳'
 
 [directory]
 truncation_length = 1
@@ -47,34 +48,34 @@ truncation_symbol = '…/'
 home_symbol = ' ~'
 read_only_style = '197'
 read_only = '  '
-style = 'bold #75FFF6'
+style = 'bold bright-cyan'
 format = 'at [$path]($style)[$read_only]($read_only_style) '
 
 [git_branch]
 truncation_length = 20
 truncation_symbol = '…/'
 symbol = ' '
-style = 'bold #DBDCE0'
+style = 'bold white'
 format = 'via [$symbol$branch]($style)'
 
 [git_status]
 conflicted = '🏳'
 up_to_date = ''
 untracked = '[ ](#82A3FF)'
-stashed = '[ ](#77DFF4)'
-modified = '[ ](#77DFF4)'
-renamed = '[󰇉 ](#FF9963)'
-deleted = '[ ](#FF795F)'
-staged = '[++\($count\)](#64EDD4)'
-ahead = '[⇡${count}](#5CFFA8)'
-behind = '[⇣${count}](#FF5560)'
-diverged = '󰃻[⇡${ahead_count}](#5CFFA8)[⇣${behind_count}](#FF5560)'
-style = 'bold #B6B6BF'
+stashed = '[ ](bright-cyan)'
+modified = '[ ](bright-cyan)'
+renamed = '[󰇉 ](bright-yellow)'
+deleted = '[ ](yellow)'
+staged = '[++\($count\)](cyan)'
+ahead = '[⇡${count}](bright-green)'
+behind = '[⇣${count}](bright-red)'
+diverged = '󰃻[⇡${ahead_count}](bright-green)[⇣${behind_count}](bright-red)'
+style = 'bold white'
 format = ' [$all_status$ahead_behind]($style) '
 
 [kubernetes]
 disabled = false
-style = "bold #B480FF"
+style = "bold magenta"
 format = 'via [󱃾 $context\($namespace\)]($style) '
 
 ####################################################################################################
