@@ -3,7 +3,7 @@
 add_newline = true
 command_timeout = 2500
 format = """\
-[╭─](bright-black)\
+[╭─](bright-black) \
 $username$hostname$os\
 $directory\
 $git_branch$git_status\
@@ -22,17 +22,17 @@ disabled = false
 show_always = true
 style_user = 'bold bright-white'
 style_root = 'italic bright-white'
-format = ' [$user]($style)'
+format = '[$user]($style) '
 
 [hostname]
 disabled = false
 ssh_only = false
 style = 'bold bright-blue'
-format = ' on [$hostname]($style)'
+format = 'on [$hostname]($style) '
 
 [os]
 disabled = false
-format = ' [$symbol](bold blue)'
+format = '[$symbol](bold blue) '
 [os.symbols]
 Arch = '󰣇'
 Linux = ''
@@ -49,14 +49,14 @@ home_symbol = ' ~'
 read_only_style = '197'
 read_only = '  '
 style = 'bold cyan'
-format = ' at [$path]($style)[$read_only]($read_only_style)'
+format = 'at [$path]($style)[$read_only]($read_only_style) '
 
 [git_branch]
 truncation_length = 20
 truncation_symbol = '…/'
 symbol = ' '
 style = 'bold white'
-format = ' via [$symbol$branch]($style)'
+format = 'via [$symbol$branch]($style) '
 
 [git_status]
 conflicted = '🏳'
@@ -71,7 +71,7 @@ ahead = '[⇡${count}](bright-blue)'
 behind = '[⇣${count}](red)'
 diverged = '󰃻[⇡${ahead_count}](bright-blue)[⇣${behind_count}](red)'
 style = 'bold white'
-format = ' [$all_status$ahead_behind]($style)'
+format = '[$all_status$ahead_behind]($style) '
 
 
 ####################################################################################################
