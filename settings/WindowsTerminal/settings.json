@@ -27,6 +27,10 @@
       "command": "find"
     },
     {
+      "id": "User.newWindow",
+      "command": { "action": "newWindow" }
+    },
+    {
       "id": "User.nextTab",
       "command": { "action": "nextTab" }
     },
@@ -96,6 +100,7 @@
     { "id": "User.commandPalette", "keys": "f1" },
     { "id": "User.exportBuffer", "keys": "ctrl+s" },
     { "id": "User.find", "keys": "ctrl+f" },
+    { "id": "User.newWindow", "keys": "ctrl+n" },
     { "id": "User.nextTab", "keys": "ctrl+tab" },
     { "id": "User.openSettings", "keys": "ctrl+comma" },
     { "id": "User.prevTab", "keys": "ctrl+shift+tab" },
