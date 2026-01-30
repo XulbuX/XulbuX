@@ -188,7 +188,7 @@
       "opacity": 66,
       "padding": "12",
       "rightClickContextMenu": false,
-      "scrollbarState": "visible",
+      "scrollbarState": "hidden",
       "showMarksOnScrollbar": true,
       "useAcrylic": true
     },
