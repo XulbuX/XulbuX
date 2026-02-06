@@ -10,7 +10,7 @@
 
 </div>
 
-# < **About Me** />[<img src="assets/img/info.svg" width="40" align="left">](#-about-me-)
+# < **About Me** />[<img src="assets/img/fa/info.svg" width="40" align="left">](#-about-me-)
 
 Love in coding and technical thinking – good eye for colors and<br>
 modern design – hobby photographer and short film creator<br>
@@ -25,7 +25,7 @@ modern design – hobby photographer and short film creator<br>
 
 </div>
 
-# < **Current Focus** />[<img src="assets/img/crosshair.svg" width="40" align="left">](#-current-focus-)
+# < **Current Focus** />[<img src="assets/img/fa/crosshair.svg" width="40" align="left">](#-current-focus-)
 
 - 🐍 Mastering the art of **[Python](https://github.com/XulbuX/Python)**.
 - 🚀 Trying to learn more about `C`, `C#` and `C++`.
@@ -41,14 +41,14 @@ modern design – hobby photographer and short film creator<br>
 
 <br>
 
-# < **Let's Connect!** />[<img src="assets/img/handshake.svg" width="40" align="left">](#-lets-connect-)
+# < **Let's Connect!** />[<img src="assets/img/fa/handshake.svg" width="40" align="left">](#-lets-connect-)
 
 Feel free to explore my repositories and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
 
 <br>
 
-# < **Tech Stack** />[<img src="assets/img/microchip.svg" width="40" align="left">](#-tech-stack-)
+# < **Tech Stack** />[<img src="assets/img/fa/microchip.svg" width="40" align="left">](#-tech-stack-)
 
 <div align="center"><br>
 
@@ -66,7 +66,7 @@ for questions or just a friendly chat about coding and designing!
 
 <br>
 
-# < **GitHub** />[<img src="assets/img/pie-chart.svg" width="40" align="left">](#-github-)
+# < **GitHub** />[<img src="assets/img/fa/pie-chart.svg" width="40" align="left">](#-github-)
 
 ### 📈 **Stats**
 [![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=XulbuX&theme=buefy&hide_border=true)](#)<br>
