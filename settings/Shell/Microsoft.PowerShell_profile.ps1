@@ -11,9 +11,13 @@ Enable-TransientPrompt
 
 # DISPLAY SIMPLIFIED PROMPT FUNCTION
 function Invoke-Starship-TransientFunction {
+    # CLEAR DETAILED PROMPT
     [Console]::SetCursorPosition(0, [Math]::Max(0, $host.UI.RawUI.CursorPosition.Y))
     [Console]::Write("`e[J")
-    &starship module character
+    # RETURN SIMPLIFIED PROMPT
+    $output = &starship module character
+    $stripped = $output -replace "`e\[[0-9;]*m", ""
+    "`e[1;35m$stripped`e[0m"
 }
 
 
