@@ -30,7 +30,7 @@ modern design – hobby photographer and short film creator<br>
 - 🐍 Mastering the art of **[Python](https://github.com/xulbux/python)**.
 - 🚀 Trying to learn more about `C`, `C#` and `C++`.
 - 📦 Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
-- 📟 Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/Projects/Commands)** and optimizing the heck out of them.
+- 📟 Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/projects/commands)** and optimizing the heck out of them.
 - 🧩 Making **[VSCode extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time.
 - 🌐 Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
 - 🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
