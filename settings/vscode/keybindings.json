@@ -11,5 +11,13 @@
   {
     "key": "shift+alt+s",
     "command": "editor.action.sortLinesDescending"
+  },
+  {
+    "key": "ctrl+oem_minus",
+    "command": "-workbench.action.zoomOut"
+  },
+  {
+    "key": "ctrl+shift+oem_minus",
+    "command": "-workbench.action.zoomOut"
   }
 ]
