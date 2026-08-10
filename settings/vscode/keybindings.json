@@ -19,5 +19,18 @@
   {
     "key": "ctrl+shift+oem_minus",
     "command": "-workbench.action.zoomOut"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "editor.action.transformToLowercase"
+  },
+  {
+    "key": "ctrl+shift+u",
+    "command": "-editor.action.transformToLowercase"
+  },
+  {
+    "key": "ctrl+shift+u",
+    "command": "-rust-analyzer.parentModule",
+    "when": "editorTextFocus && editorLangId == 'rust'"
   }
 ]
