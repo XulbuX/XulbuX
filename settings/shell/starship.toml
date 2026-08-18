@@ -3,10 +3,7 @@
 add_newline = false
 command_timeout = 2500
 format = """\
-[╭─](bright-black) \
-$username$hostname$os\
-$directory$git_branch$python\
-$cmd_duration
+[╭─](bright-black) $os$directory$git_branch$python$cmd_duration
 $character"""
 
 [character]
@@ -17,19 +14,6 @@ error_symbol = '[\$](bold red)'
 transient = '[\$](bold purple) '
 
 ####################################################################################################
-
-[username]
-disabled = false
-show_always = true
-style_user = 'bold bright-white'
-style_root = 'italic bright-white'
-format = '[$user]($style) '
-
-[hostname]
-disabled = false
-ssh_only = false
-style = 'bold bright-blue'
-format = 'on [$hostname]($style) '
 
 [os]
 disabled = false
@@ -49,24 +33,26 @@ truncation_symbol = '…/'
 home_symbol = ' ~'
 read_only_style = '197'
 read_only = '  '
-style = 'bold cyan'
+style = 'bold bright-blue'
 format = 'at [$path]($style)[$read_only]($read_only_style) '
 
 [git_branch]
 truncation_length = 20
 truncation_symbol = '…/'
 symbol = ' '
-style = 'bold white'
+style = 'bold bright-cyan'
 format = 'via [$symbol$branch]($style) '
 
 [python]
 symbol = ' '
-style = 'bold yellow'
+style = 'bold bright-purple'
 format = 'in [$symbol$virtualenv]($style) '
 detect_extensions = []
 detect_files = []
 detect_folders = []
 
 [cmd_duration]
+style = 'bold bright-red'
+format = 'took [$duration]($style) '
 min_time = 0
 show_milliseconds = true
